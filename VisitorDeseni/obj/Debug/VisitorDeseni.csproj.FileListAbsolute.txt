@@ -1,0 +1,6 @@
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\VisitorDeseni\VisitorDeseni\bin\Debug\VisitorDeseni.exe.config
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\VisitorDeseni\VisitorDeseni\bin\Debug\VisitorDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\VisitorDeseni\VisitorDeseni\bin\Debug\VisitorDeseni.pdb
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\VisitorDeseni\VisitorDeseni\obj\Debug\VisitorDeseni.csprojResolveAssemblyReference.cache
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\VisitorDeseni\VisitorDeseni\obj\Debug\VisitorDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\VisitorDeseni\VisitorDeseni\obj\Debug\VisitorDeseni.pdb
